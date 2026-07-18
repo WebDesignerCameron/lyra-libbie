@@ -10,9 +10,9 @@ and Robert from
 # WebDesignerCameron Sites Status
 Not payed, so not online. 
 # GitHub Stats
-PRs: 0
+PRs: 1
 -
-Closed PRs: 0
+Closed PRs: 1
 -
 GitHub Pages Source: None
 -
