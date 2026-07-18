@@ -191,6 +191,57 @@ main {
 .crew .no_mb {
     margin: 0;
 }
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.products h2 {
+    margin-bottom: 25px;
+    width: 100vw;
+    color: #0000ff;
+    animation: htwo 4s infinite;
+}
+@keyframes htwo {
+    0% {
+        color: blue;
+    }
+    33% {
+        color: purple;
+    }
+    66% {
+        color: pink;
+    }
+    100% {
+        color: blue;
+    }
+}
+.products article {
+    padding: 5px;
+    background: #ffffff;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    gap: 2rem;
+    margin-bottom: 25px;
+}
+article h3 {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.context {
+    display: flex;
+}
+.context img {
+    flex: 2;
+    width: 80px;
+    outline: 2px solid black;
+    height: auto;
+}
+.context div {
+    flex: 2;
+    width: 80px;
+}
 footer {
     background: #111111;
     color: white;
