@@ -10,9 +10,11 @@ and Robert from
 ## WebDesignerCameron Sites Status
 Not payed, so not online. 
 ## GitHub Stats
-| PRs: | 1 |
-| Closed PRs: | 1 |
-| GitHub Pages Source: | None |
+| Item | Value |
+|------|-------|
+| PRs | 1 |
+| Closed PRs | 1 |
+| GitHub Pages Source | None | 
 # Links
 * [WebDesignerCameron](https://webdesignercameron.github.io/WDC)
 * [WebDesignerCameron on GitHub](https://github.com/WebDesignerCameron)
